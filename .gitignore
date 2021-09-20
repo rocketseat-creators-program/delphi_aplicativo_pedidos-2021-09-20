@@ -1,0 +1,4 @@
+*.~*
+/Win32/*.*
+/Win32/Debug
+/fonte/Win32/Debug

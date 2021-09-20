@@ -4,11 +4,10 @@
 
 SET NAMES NONE;
 
-/*CREATE DATABASE 'LOCALHOST:D:\_Projetos\Exemplo1\CONTROLE_PEDIDO.FDB'
+CREATE DATABASE 'LOCALHOST:D:\_Documentos\Sistemas\delphi_aplicativo_pedidos-2021-09-20\banco_de_dados\aplicativo_pedido.FDB'
 USER 'SYSDBA' PASSWORD 'masterkey'
 PAGE_SIZE 16384
 DEFAULT CHARACTER SET NONE COLLATION NONE;
-*/
 
 
 /******************************************************************************/
